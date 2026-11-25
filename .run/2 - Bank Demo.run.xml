@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="2 - Bank Demo" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.codenova.bank.Main" />
+    <module name="bank-transaction-manager" />
+    <option name="PROGRAM_PARAMETERS" value="--demo" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

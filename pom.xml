@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.codenova</groupId>
+    <artifactId>bank-transaction-manager</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <name>Bank Transaction and Account Manager</name>
+    <description>CodeNova Internship Task 2: OOP banking app with custom exceptions, BigDecimal and atomic transfers</description>
+
+    <!-- No dependencies: the project uses only the JDK. This file just lets IntelliJ IDEA
+         (or any IDE) recognise the source folders and Java version automatically. -->
+    <properties>
+        <maven.compiler.release>17</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+</project>

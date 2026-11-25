@@ -1,0 +1,5 @@
+sequence,timestamp,type,description,reference,amount,balance_after
+1,2026-11-25T18:27:09,OPENING_DEPOSIT,Account opened,,25000.00,25000.00
+4,2026-11-25T18:27:09,DEPOSIT,Cash deposit,,4999.99,29999.99
+6,2026-11-25T18:27:09,TRANSFER_OUT,Transfer to CHK1001,CHK1001,-7500.50,22499.49
+8,2026-11-25T18:27:09,INTEREST,Monthly interest @ 4% p.a.,,75.00,22574.49

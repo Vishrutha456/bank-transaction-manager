@@ -1,0 +1,10 @@
+out/
+data/
+demo-data/
+*.class
+*.tmp
+.idea/
+*.iml
+.vscode/
+.DS_Store
+target/
